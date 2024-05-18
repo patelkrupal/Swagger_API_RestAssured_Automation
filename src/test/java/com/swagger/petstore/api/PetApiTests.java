@@ -1,4 +1,4 @@
-package com.example;
+package com.swagger.petstore.api;
 import static io.restassured.module.jsv.JsonSchemaValidator.matchesJsonSchemaInClasspath;
 
 import org.testng.annotations.DataProvider;

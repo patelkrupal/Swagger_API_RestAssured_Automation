@@ -1,4 +1,4 @@
-package com.example;
+package com.swagger.petstore.api;
 
 public class Main {
     public static void main(String[] args) {

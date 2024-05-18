@@ -1,4 +1,4 @@
-package com.example;
+package com.swagger.petstore.api;
 import io.restassured.RestAssured;
 import org.testng.annotations.BeforeClass;
 
