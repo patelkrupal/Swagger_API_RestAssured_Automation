@@ -1,4 +1,4 @@
-# Pet API Tests
+# Swagger Pet Store API.
 
 This project contains automated tests for the Pet API using Rest Assured framework,TestNG and Allure for generating Report.
 
