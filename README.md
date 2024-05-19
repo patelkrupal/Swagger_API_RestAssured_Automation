@@ -54,6 +54,11 @@ BaseTest.java serves as the foundation for the project, abstracting out essentia
 
 - **Connection Details:** BaseTest.java manages the connection details necessary for interacting with the API. By initializing RestAssured in the `setup()` method, it establishes a connection to the target system, facilitating subsequent HTTP requests and responses in the test cases.
 
+## Constants.java Overview
+
+- **Constants.java**, located in the utils package under com.swagger.petstore.api, is a utility class for storing application constants. It includes the following constant:
+
+- **BASE_URL**: This constant holds the base URL of the Pet Store API, allowing easy access to the URL across the project. It is referenced in the setup() method of BaseTest.java to configure the base URI for RestAssured requests.
 
 ## PetApiTests.java Overview
 
